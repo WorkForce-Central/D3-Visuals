@@ -1,0 +1,27 @@
+{"name":"flare","children":
+	[{"name":"Management","children":
+		[{"name":"Other Management","children":
+			[{"name":"Miscellaneous Managers","value":1839},
+			{"name":"Education Administrators","value":1159},
+			{"name":"Construction Managers","value":1104},
+			{"name":"Medical Health Service Managers","value":903},
+			{"name":"Farmers, Ranchers, and Other Agricultural Managers","value":627},
+			{"name":"Property, Real Estate, and Community Association Mangers","value":565},
+			{"name":"Social and Community Service Managers","value":514},
+			{"name":"Food Service Managers","value":394},
+			{"name":"Architectural and Engineering Managers","value":213},
+			{"name":"Natural Science Managers","value":85},
+			{"name":"Lodging Managers","value":81},
+			{"name":"Postmasters and Mail Superintendents","value":32},
+			{"name":"Funeral Service Managers","value":19},
+			{"name":"Emergency Management Directors","value":13},
+			{"name":"Gaming Managers","value":12},
+			{"name":"Other Management Occupations","value":7559}]},
+		{"name":"graph","children":
+			[{"name":"BetweennessCentrality","value":3534},
+			{"name":"SpanningTree","value":3416}]},
+		{"name":"optimization","children":
+			[{"name":"AspectRatioBanker","value":7074},
+			{"name":"SpanningTree","value":3416}]}
+		]}
+    ]}
