@@ -1,3 +1,12 @@
+var data = [
+  {"EdLevel":"Less than High School Diploma","quantity":24},
+  {"EdLevel":"High School Diploma or Equivalent","quantity":15},
+  {"EdLevel":"Some College Classes","quantity":5},
+  {"EdLevel":"Associate's Degreee","quantity":10},
+  {"EdLevel":"Post- Secondary Certification","quantity":30},
+  {"EdLevel":"Bachelor's Degree","quantity":21},
+  {"EdLevel":"Master's Degree","quantity":13},
+  {"EdLevel":"Doctoral Degree","quantity":9}]
 var margin = {top:10, right:10, bottom:90, left:10};
 
 var width = 960 - margin.left - margin.right;
